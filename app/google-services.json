@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174810039420",
+    "project_id": "phoneapp-36f98",
+    "storage_bucket": "phoneapp-36f98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174810039420:android:dfcb51c3977cea8ddd35f9",
+        "android_client_info": {
+          "package_name": "com.example.phoneapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfBMoAeS50AgFNRhsO5GKxfx1Y3KPm72s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
