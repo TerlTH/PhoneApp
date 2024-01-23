@@ -27,5 +27,13 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(loginIntent);
             }
         });
+
+        joinButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent registerIntent = new Intent(MainActivity.this, RegisterActivity.class);
+                startActivity(registerIntent);
+            }
+        });
     }
 }
